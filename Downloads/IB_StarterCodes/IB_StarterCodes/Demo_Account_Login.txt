@@ -1,0 +1,4 @@
+IB Gateway Paper Trading API Account
+
+Username	:	edemo
+Password	:	demo123

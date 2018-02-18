@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4443</CoID>
+		<CoID Type="CompanyName">Tata Motors Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Fully Paid Ord. Shrs</IssueID>
+			<IssueID Type="Ticker">TATAMOTORS</IssueID>
+			<IssueID Type="CUSIP">Y85740267</IssueID>
+			<IssueID Type="ISIN">INE155A01022</IssueID>
+			<IssueID Type="RIC">TAMO.NS</IssueID>
+			<IssueID Type="SEDOL">B611LV1</IssueID>
+			<IssueID Type="DisplayRIC">TAMO.NS</IssueID>
+			<IssueID Type="InstrumentPI">349508</IssueID>
+			<IssueID Type="QuotePI">783302</IssueID>
+			<Exchange Code="NSE" Country="IND">National Stock Exchange of India</Exchange>
+			<MostRecentSplit Date="2015-04-06">1.01072</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares Class A</IssueID>
+			<IssueID Type="Ticker">TATAMTRDVR</IssueID>
+			<IssueID Type="CUSIP">Y85740275</IssueID>
+			<IssueID Type="ISIN">IN9155A01020</IssueID>
+			<IssueID Type="RIC">TAMdv.NS</IssueID>
+			<IssueID Type="SEDOL">B60NRB0</IssueID>
+			<IssueID Type="DisplayRIC">TAMdv.NS</IssueID>
+			<IssueID Type="InstrumentPI">53766788</IssueID>
+			<IssueID Type="QuotePI">53789814</IssueID>
+			<Exchange Code="NSE" Country="IND">National Stock Exchange of India</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2018-02-06</LastModified>
+		<LatestAvailableAnnual>2017-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2017-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2017-03-31">26035</Employees>
+		<SharesOut Date="2017-09-30" TotalFloat="2346008027.0">3395851065.0</SharesOut>
+		<CommonShareholders Date="2017-09-30">609864</CommonShareholders>
+		<ReportingCurrency Code="INR">Rupee</ReportingCurrency>
+		<MostRecentExchange Date="2018-02-12">64.27</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-07-31T23:32:27">Tata Motors Limited is an automobile company. The Company is engaged in manufacture of motor vehicles. The Company is engaged mainly in the business of automobile products consisting of all types of commercial and passenger vehicles, including financing of the vehicles sold by the Company. The Company's segments include automotive operations and all other operations. The Company's automotive segment operations include all activities relating to the development, design, manufacture, assembly and sale of vehicles, including vehicle financing, as well as sale of related parts and accessories. In the automotive segment, the Company manufactures and sells passenger cars, utility vehicles, light commercial vehicles, and medium and heavy commercial vehicles. The Company's all other operations segment mainly includes information technology (IT) services, and machine tools and factory automation services. The Company operates in over 160 countries across the world.</Text>
+		<Text Type="Financial Summary" lastModified="2018-02-06T09:31:47">BRIEF: For the nine months ended 31 December 2017, Tata Motors Limited revenues increased 4% to RS2.041T. Net income increased from RS31.59B to RS68.64B. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Foreign exchange (gain)/loss (net) increase from RS39.55B (expense) to RS8.29B (income), Other Non Rec.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2018-02-09T07:29:25">
+		<streetAddress line="1">24 Homi Mody St</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>MUMBAI</city>
+		<state-region></state-region>
+		<postalCode>400001</postalCode>
+		<country code="IND">India</country>
+		<contactName>H. Sethna</contactName>
+		<contactTitle>Compliance Officer, Company Secretary</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>91</countryPhoneCode>
+				<city-areacode>22</city-areacode>
+				<number>66658282</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>91</countryPhoneCode>
+				<city-areacode>22</city-areacode>
+				<number>66657799</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>91</countryPhoneCode>
+				<city-areacode>22</city-areacode>
+				<number>66657824</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-21T00:18:33"><webSite mainCategory="Home Page">http://www.tatamotors.com</webSite><eMail mainCategory="Company Contact/E-mail">inv_rel@tatamotors.com</eMail></webLinks>
+	<peerInfo lastUpdated="2018-02-09T07:29:25">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5310101010" mnem="">Auto &amp; Truck Manufacturers - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="336111" mnem="">Automobile Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="336112" mnem="">Light Truck and Utility Vehicle Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="336399" mnem="">All Other Motor Vehicle Parts Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="33612" mnem="">Heavy Duty Truck Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="333513" mnem="">Machine Tool (Metal Forming Types) Manufacturing</Industry>
+			<Industry type="SIC" order="0" reported="1" code="3711" mnem="">Motor Vehicles And Car Bodies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3711" mnem="">Motor Vehicles And Car Bodies</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3714" mnem="">Motor Vehicle Parts/accessories</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3542" mnem="">MacHine Tools/metal Forming Types</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/15/2016">
+			<firstName>Guenter</firstName>
+			<mI></mI>
+			<lastName>Butschek</lastName>
+			<age>57 </age>
+			<title startYear="2016" startMonth="02" startDay="15" iD1="CEO" abbr1="CEO" iD2="MDR" abbr2="Mgng.Dir.">Chief Executive Officer, Managing Director, Director</title>
+		</officer>
+		<officer rank="2" since="11/14/2017">
+			<firstName>P.</firstName>
+			<mI>B.</mI>
+			<lastName>Balaji</lastName>
+			<age>46 </age>
+			<title startYear="2017" startMonth="11" startDay="14" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Mayank</firstName>
+			<mI></mI>
+			<lastName>Pareek</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - Passenger Vehicle Business Unit</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Satish</firstName>
+			<mI>B.</mI>
+			<lastName>Borwankar</lastName>
+			<age>65 </age>
+			<title startYear="2017" startMonth="07" startDay="" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director - Quality, Director</title>
+		</officer>
+		<officer rank="5" since="2014">
+			<firstName>Gajendra</firstName>
+			<mI></mI>
+			<lastName>Chandel</lastName>
+			<age>50 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CHO" abbr1="Chief HR" iD2="" abbr2="">Chief Human Resource Officer</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Timothy</firstName>
+			<mI></mI>
+			<lastName>Leverton</lastName>
+			<age></age>
+			<title startYear="2017" startMonth="" startDay="" iD1="CTO" abbr1="CTO" iD2="" abbr2="">Chief Technology Officer</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>H.</firstName>
+			<mI>K.</mI>
+			<lastName>Sethna</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CCO" abbr1="Chief Comp." iD2="SEC" abbr2="Secy.">Compliance Officer, Company Secretary</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Shailesh</firstName>
+			<mI></mI>
+			<lastName>Chandra</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="VPR" abbr1="VP" iD2="" abbr2="">Vice President - Corporate Strategy and Business Transformation</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Thomas</firstName>
+			<mI></mI>
+			<lastName>Flack</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Purchasing Officer</title>
+		</officer>
+		<officer rank="10" since="NA">
+			<firstName>Girish</firstName>
+			<mI></mI>
+			<lastName>Wagh</lastName>
+			<age></age>
+			<title startYear="2017" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head - Commercial Vehicles Business Unit</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="INR" ReportingCurrency="INR" ExchangeRate="1.00000" LatestAvailableDate="2017-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">371.80000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">512.70000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">356.50000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2018-02-12T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">10.45535</Ratio>
+			<Ratio FieldName="EV" Type="N">1767807.30000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1179222.00000</Ratio>
+			<Ratio FieldName="AREV" Type="N">2744921.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">336396.20000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">74543.60000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">21.94683</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">808.14880</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">170.97890</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">155.11570</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">70.56725</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">41.94903</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.88114</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.42960</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">16.94094</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.17454</Ratio>
+			<Ratio FieldName="Employees" Type="N">26035</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2018" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2018" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">478.58000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">39.1253</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">13.86000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2918252.40780</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">854127.13700</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">26.82540</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-1.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">114003.42780</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">1.17580</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

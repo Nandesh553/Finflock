@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">4741N</CoID>
+		<CoID Type="CompanyName">International Business Machines Corp.</CoID>
+		<CoID Type="IRSNo">130871985</CoID>
+		<CoID Type="CIKNo">0000051143</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">IBM</IssueID>
+			<IssueID Type="CUSIP">459200101</IssueID>
+			<IssueID Type="ISIN">US4592001014</IssueID>
+			<IssueID Type="RIC">IBM</IssueID>
+			<IssueID Type="SEDOL">2005973</IssueID>
+			<IssueID Type="DisplayRIC">IBM.N</IssueID>
+			<IssueID Type="InstrumentPI">261483</IssueID>
+			<IssueID Type="QuotePI">1090370</IssueID>
+			<Exchange Code="NYSE" Country="USA">New York Stock Exchange</Exchange>
+			<MostRecentSplit Date="1999-05-27">2.0</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares Series A</IssueID>
+			<IssueID Type="Ticker">IBMPP</IssueID>
+			<IssueID Type="CUSIP">459200200</IssueID>
+			<IssueID Type="ISIN">US4592002004</IssueID>
+			<IssueID Type="RIC">IBMPP.PK^C06</IssueID>
+			<IssueID Type="InstrumentPI">1883112</IssueID>
+			<IssueID Type="QuotePI">25545447</IssueID>
+			<Exchange Code="OTC" Country="USA">Over The Counter</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2018-01-19</LastModified>
+		<LatestAvailableAnnual>2017-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2017-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2016-12-31">380300</Employees>
+		<SharesOut Date="2017-12-31" TotalFloat="924908915.0">925791378.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2018-02-12">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2017-03-13T05:07:25">International Business Machines Corporation (IBM) is a technology company. The Company operates through five segments: Cognitive Solutions, Global Business Services (GBS), Technology Services &amp; Cloud Platforms, Systems and Global Financing. The Cognitive Solutions segment delivers a spectrum of capabilities, from descriptive, predictive and prescriptive analytics to cognitive systems. Cognitive Solutions includes Watson, a cognitive computing platform that has the ability to interact in natural language, process big data, and learn from interactions with people and computers. The GBS segment provides clients with consulting, application management services and global process services. The Technology Services &amp; Cloud Platforms segment provides information technology infrastructure services. The Systems segment provides clients with infrastructure technologies. The Global Financing segment includes client financing, commercial financing, and remanufacturing and remarketing.</Text>
+		<Text Type="Financial Summary" lastModified="2018-01-19T01:11:46">BRIEF: For the fiscal year ended 31 December 2017, International Business Machines Corp. revenues decreased 1% to $79.14B. Net income before extraordinary items decreased 52% to $5.76B. Revenues reflect Services decrease of 64% to $18.45B, Sales decrease of 70% to $8.19B, Financing decrease of 1% to $1.7B. Net income also reflects Intellectual property and custom develop decrease of 10% to $1.47B (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2018-02-02T13:34:23">
+		<streetAddress line="1">1 New Orchard Rd</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ARMONK</city>
+		<state-region>NY</state-region>
+		<postalCode>10504-1722</postalCode>
+		<country code="USA">United States</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>914</city-areacode>
+				<number>4991900</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2016-02-25T13:00:06"><webSite mainCategory="Home Page">http://www.ibm.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2018-02-02T13:34:23">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720101010" mnem="">IT Services &amp; Consulting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="334111" mnem="">Electronic Computer Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="334413" mnem="">Semiconductor and Related Device Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="334119" mnem="">Other Computer Peripheral Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="52222" mnem="">Sales Financing</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="53242" mnem="">Office Machinery and Equipment Rental and Leasing</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="NAICS" order="10" reported="0" code="51421" mnem="">Data Processing Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3571" mnem="">Electronic Computers</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3674" mnem="">Semiconductors/related Devices</Industry>
+			<Industry type="SIC" order="6" reported="0" code="3577" mnem="">Computer Periph'L Equipment, Nec</Industry>
+			<Industry type="SIC" order="7" reported="0" code="6159" mnem="">Misc Business Credit Institutions</Industry>
+			<Industry type="SIC" order="8" reported="0" code="7359" mnem="">Equipment Rental &amp; Leasing, Nec</Industry>
+			<Industry type="SIC" order="9" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+			<Industry type="SIC" order="10" reported="0" code="7374" mnem="">Data Processing And Preparation</Industry>
+		</IndustryInfo>
+		<Indexconstituet>S&amp;P 500</Indexconstituet>
+		<Indexconstituet>Dow Industry</Indexconstituet>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/2005">
+			<firstName>Virginia</firstName>
+			<mI>M.</mI>
+			<lastName>Rometty</lastName>
+			<age>59 </age>
+			<title startYear="2012" startMonth="10" startDay="01" iD1="CHM" abbr1="Chmn." iD2="PRE" abbr2="Pres.">Chairman of the Board, President, Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="05/02/2008">
+			<firstName>James</firstName>
+			<mI>J.</mI>
+			<lastName>Kavanaugh</lastName>
+			<age>51 </age>
+			<title startYear="2018" startMonth="01" startDay="11" iD1="CFO" abbr1="CFO" iD2="SVP" abbr2="Sr. VP">Chief Financial Officer, Senior Vice President</title>
+		</officer>
+		<officer rank="3" since="2015">
+			<firstName>Michelle</firstName>
+			<mI>H.</mI>
+			<lastName>Browdy</lastName>
+			<age>53 </age>
+			<title startYear="2015" startMonth="" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="GCN" abbr2="Counsel">Senior Vice President - Legal and Regulatory Affairs and General Counsel</title>
+		</officer>
+		<officer rank="4" since="2013">
+			<firstName>Diane</firstName>
+			<mI>J.</mI>
+			<lastName>Gherson</lastName>
+			<age>59 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="DHR" abbr2="Dir.-HR">Senior Vice President - Human Resources</title>
+		</officer>
+		<officer rank="5" since="2010">
+			<firstName>Erich</firstName>
+			<mI></mI>
+			<lastName>Clementi</lastName>
+			<age>58 </age>
+			<title startYear="2016" startMonth="" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President - IBM Global Markets</title>
+		</officer>
+		<officer rank="6" since="2000">
+			<firstName>John</firstName>
+			<mI>E.</mI>
+			<lastName>Kelly</lastName>
+			<age>63 </age>
+			<title startYear="2016" startMonth="02" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President - IBM Cognitive Solutions and IBM Research</title>
+		</officer>
+		<officer rank="7" since="2014">
+			<firstName>Kenneth</firstName>
+			<mI>M.</mI>
+			<lastName>Keverian</lastName>
+			<age>60 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President - Corporate Strategy</title>
+		</officer>
+		<officer rank="8" since="01/01/2014">
+			<firstName>Martin</firstName>
+			<mI>J.</mI>
+			<lastName>Schroeter</lastName>
+			<age>52 </age>
+			<title startYear="2018" startMonth="01" startDay="11" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President - Global Markets</title>
+		</officer>
+		<officer rank="9" since="01/21/2017">
+			<firstName>Robert</firstName>
+			<mI>F.</mI>
+			<lastName>Del Bene</lastName>
+			<age>57 </age>
+			<title startYear="2017" startMonth="01" startDay="21" iD1="VPR" abbr1="VP" iD2="CTR" abbr2="Contr.">Vice President, Controller</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="USD" ReportingCurrency="USD" ExchangeRate="1.00000" LatestAvailableDate="2017-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">151.40000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">182.79000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">139.13000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2018-02-12T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">6.39136</Ratio>
+			<Ratio FieldName="EV" Type="N">174408.80000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">140164.80000</Ratio>
+			<Ratio FieldName="TTMREV" Type="N">79140.00000</Ratio>
+			<Ratio FieldName="TTMEBITD" Type="N">15564.00000</Ratio>
+			<Ratio FieldName="TTMNIAC" Type="N">5758.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="TTMEPSXCLX" Type="N">6.11354</Ratio>
+			<Ratio FieldName="TTMREVPS" Type="N">84.52581</Ratio>
+			<Ratio FieldName="QBVPS" Type="N">19.00428</Ratio>
+			<Ratio FieldName="QCSHPS" Type="N">13.58837</Ratio>
+			<Ratio FieldName="TTMCFSHR" Type="N">11.00096</Ratio>
+			<Ratio FieldName="TTMDIVSHR" Type="N">5.90000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="TTMGROSMGN" Type="N">45.77710</Ratio>
+			<Ratio FieldName="TTMROEPCT" Type="N">32.13170</Ratio>
+			<Ratio FieldName="TTMPR2REV" Type="N">1.77110</Ratio>
+			<Ratio FieldName="PEEXCLXOR" Type="N">24.76470</Ratio>
+			<Ratio FieldName="PRICE2BK" Type="N">7.96663</Ratio>
+			<Ratio FieldName="Employees" Type="N">380300</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2018" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2018" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.6</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">169.76190</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">2.9200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">10.94508</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">80090.73070</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">18772.30010</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">13.83270</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">2.39760</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">12702.38350</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">6.19110</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5606</CoID>
+		<CoID Type="CompanyName">Tata Chemicals Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Fully Paid Ord. Shrs</IssueID>
+			<IssueID Type="Ticker">TATACHEM</IssueID>
+			<IssueID Type="CUSIP">Y85478116</IssueID>
+			<IssueID Type="ISIN">INE092A01019</IssueID>
+			<IssueID Type="RIC">TTCH.NS</IssueID>
+			<IssueID Type="SEDOL">6101167</IssueID>
+			<IssueID Type="DisplayRIC">TTCH.NS</IssueID>
+			<IssueID Type="InstrumentPI">349521</IssueID>
+			<IssueID Type="QuotePI">783290</IssueID>
+			<Exchange Code="NSE" Country="IND">National Stock Exchange of India</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2018-02-07</LastModified>
+		<LatestAvailableAnnual>2017-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2017-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2017-03-31">4115</Employees>
+		<SharesOut Date="2017-09-30" TotalFloat="173768856.0">254820000.0</SharesOut>
+		<CommonShareholders Date="2017-03-31">181064</CommonShareholders>
+		<ReportingCurrency Code="INR">Rupee</ReportingCurrency>
+		<MostRecentExchange Date="2018-02-09">64.37</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-07-31T23:32:01">Tata Chemicals Limited is a holding company. The Company is a manufacturer of soda ash and sodium bicarbonate for diverse industries, such as glass, detergents, silicates, textiles, food, pharmaceuticals, animal feed, mining and chemical processing. The Company operates through four segments: Inorganic Chemicals, which includes soda ash, salt, sodium bicarbonate, marine chemicals, caustic soda and cement; Fertilisers, which includes fertilizers and other traded products; Other Agri-inputs, including Rallis India Limited's operations, and Others, which includes pulses, spices, water purifier and nutritional solutions. The Company classifies its products under approximately three categories, including living essentials, industry essentials and farm essentials. The Company has a global presence with subsidiaries in the United Kingdom, Kenya and the United States.</Text>
+		<Text Type="Financial Summary" lastModified="2018-02-07T05:39:48">BRIEF: For the nine months ended 31 December 2017, Tata Chemicals Limited revenues decreased 15% to RS79.1B. Net income before extraordinary items increased 64% to RS9.43B. Revenues reflect Inorganic Chemicals segment decrease of 34% to RS42.1B, Other Agri inputs segment decrease of 40% to RS9.77B. Net income reflects Other Expenses decrease of 10% to RS16.08B (expense), Exceptional item increase from RS0K to RS595.7M (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2018-02-07T05:39:58">
+		<streetAddress line="1">Leela Business Park</streetAddress>
+		<streetAddress line="2">Andheri - Kurla Road, Andheri (East)</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>MUMBAI</city>
+		<state-region></state-region>
+		<postalCode>400001</postalCode>
+		<country code="IND">India</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>91</countryPhoneCode>
+				<city-areacode>22</city-areacode>
+				<number>66657833</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>91</countryPhoneCode>
+				<city-areacode>22</city-areacode>
+				<number>66658144</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-03-20T10:29:27"><webSite mainCategory="Home Page">http://www.tatachemicals.com</webSite><eMail mainCategory="Company Contact/E-mail">investors@tatachemicals.com</eMail></webLinks>
+	<peerInfo lastUpdated="2018-02-07T05:39:58">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5110109010" mnem="">Diversified Chemicals</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="325181" mnem="">Alkalies and Chlorine Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="32731" mnem="">Cement Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="325312" mnem="">Phosphatic Fertilizer Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="325311" mnem="">Nitrogenous Fertilizer Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="32532" mnem="">Pesticide and Other Agricultural Chemical Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="325188" mnem="">All Other Basic Inorganic Chemical Manufacturing</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="333319" mnem="">Other Commercial and Service Industry Machinery Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2812" mnem="">Alkalies And Chlorine</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3241" mnem="">Cement, Hydraulic</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2874" mnem="">Phosphatic Fertilizers</Industry>
+			<Industry type="SIC" order="4" reported="0" code="2873" mnem="">Nitrogenous Fertilizers</Industry>
+			<Industry type="SIC" order="5" reported="0" code="2879" mnem="">Agricultural Chemicals, Nec</Industry>
+			<Industry type="SIC" order="6" reported="0" code="2819" mnem="">Indust'L Inorganic Chemicals, Nec</Industry>
+			<Industry type="SIC" order="7" reported="0" code="3589" mnem="">Service Industry MacHinery, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/25/2016">
+			<firstName>Ratan</firstName>
+			<mI>Naval</mI>
+			<lastName>Tata</lastName>
+			<age>79 </age>
+			<title startYear="2016" startMonth="10" startDay="25" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Interim Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="10/20/2015">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Mulhall</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="10" startDay="20" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Arup</firstName>
+			<mI></mI>
+			<lastName>Basu</lastName>
+			<age>49 </age>
+			<title startYear="2011" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - New Business and Innovation Centers</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Richa</firstName>
+			<mI></mI>
+			<lastName>Arora</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer, Consumer Products Business</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Zarir</firstName>
+			<mI></mI>
+			<lastName>Langrana</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer, Chemicals (India)</title>
+		</officer>
+		<officer rank="6" since="2010">
+			<firstName>D.</firstName>
+			<mI>K.</mI>
+			<lastName>Sundar</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer - Fertilisers</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>R.</firstName>
+			<mI></mI>
+			<lastName>Nanda</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CHO" abbr1="Chief HR" iD2="" abbr2="">Chief Human Resource Officer</title>
+		</officer>
+		<officer rank="8" since="07/17/2007">
+			<firstName>Rajiv</firstName>
+			<mI></mI>
+			<lastName>Chandan</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Ramakrishnan</firstName>
+			<mI></mI>
+			<lastName>Mukundan</lastName>
+			<age>48 </age>
+			<title startYear="2008" startMonth="12" startDay="15" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="10" since="NA">
+			<firstName>Martin</firstName>
+			<mI></mI>
+			<lastName>Ashcroft</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director, Tata Chemicals Europe</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="INR" ReportingCurrency="INR" ExchangeRate="1.00000" LatestAvailableDate="2017-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">715.50000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">782.00000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">549.05000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2018-02-12T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.95375</Ratio>
+			<Ratio FieldName="EV" Type="N">234246.70000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">182278.10000</Ratio>
+			<Ratio FieldName="AREV" Type="N">106764.10000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">21343.30000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">8796.40000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">34.52625</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">419.05370</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">310.31860</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">73.57483</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">65.65931</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">11.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">66.53444</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">11.91717</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.70730</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">20.72336</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.30569</Ratio>
+			<Ratio FieldName="Employees" Type="N">4115</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2018" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2018" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.1429</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">744.14290</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">6.2900</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">15.93293</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">130204.25670</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">27302.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">44.90700</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">22549.21300</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">11.92170</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>
