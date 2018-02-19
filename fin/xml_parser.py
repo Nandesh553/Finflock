@@ -4,14 +4,19 @@ tree = ET.parse('D:\\Files\\Documents\\Workspace\\Finflock\\Downloads\\Sample_XM
 
 root = tree.getroot()
 
-print('\nThe root is :')
+print('\n\nThe root is :')
 print(root.tag)
 
-print('\nAll the attributes of root:')
+print('\n\nAll the attributes of root:')
 print(root.attrib)
 
-print('\nThe children nodes are:')
+print('\n\nThe children nodes are:')
 for child in root:
     print(child.tag,child.attrib)
 
-print(root[0][1].text)
+print('\n\nFirst value of the data:')
+print(root[0][0].text)
+
+
+for neighbor in root.iter('neighbor'):
+    print(neighbor.attrib)
