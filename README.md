@@ -11,17 +11,25 @@ If you have queries ping me gere:
 
 * Ensure that pip is installed.
 * To install the pip, run commands mentioned below
-	-> pip install virtualenv
-	-> pip install virtualenvwrapper-win
-* Once the virtualenv is installed, make one
-	-> mkvirtualenv fin
-	-> setprojectdir .
-	** Run the above command from the same directory  to bind it with the virtualenv
+	```
+	pip install virtualenv
+	pip install virtualenvwrapper-win
+	```
+* Once the virtualenv is installed, make one for the project
+	```
+	mkvirtualenv fin
+	setprojectdir .
+	```
+* Run the above command from the same directory  to bind it with the virtualenv
 
-* To enter run
-	->workon fin
-* To deactivate
-	->deactivate
+* To enter the environment, run:
+	```
+	workon fin
+	```
+* To deactivate the environment, run:
+	```
+	deactivate
+	```
 
 ## Dependencies:
 	* Pandas
