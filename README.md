@@ -1,6 +1,11 @@
+#Finflock System
 This is the documentation for the project.
-	*** Read carefully ***
-
+As the project is in beginning phase, documentation might be not upto date.
+If you have queries ping me gere:
+	```
+	guptanandeshwar553@gmail.com or nandeshwar@finflock.com
+	```
+	
 ## First Setup the python environment.
 
 * Ensure that pip is installed.
