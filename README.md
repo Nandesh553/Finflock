@@ -2,7 +2,7 @@
 
 This is the documentation for the project.
 As the project is in beginning phase, documentation might be not upto date.
-If you have queries ping me gere:
+If you have queries ping me here:
 	```
 	guptanandeshwar553@gmail.com or nandeshwar@finflock.com
 	```
