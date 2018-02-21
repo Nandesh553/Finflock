@@ -32,7 +32,7 @@ import pandas as pd
 # ▒█▄▄▀ █▀▀ █░░█ █░░█ █▄▄▀ ░░█░░ ▀▀█ 　 ▒█▀▀▀ ▀█▀ █░░█ ░▀▀▀▄▄ ░░█░░ █▄▄█ ░░█░░ █▀▀ █░▀░█ █▀▀ █░░█ ░░█░░ ▀▀█
 # ▒█░▒█ ▀▀▀ █▀▀▀ ▀▀▀▀ ▀░▀▀ ░░▀░░ ▀▀▀ 　 ▒█░░░ ▀▀▀ ▀░░▀ ▒█▄▄▄█ ░░▀░░ ▀░░▀ ░░▀░░ ▀▀▀ ▀░░░▀ ▀▀▀ ▀░░▀ ░░▀░░ ▀▀▀
 
-tree = ET.parse('D:\\Files\\Documents\\Workspace\\Finflock\\Downloads\\Sample_XMLs\\Sample_XMLs\\IBM_Fundamental_Data\\IBM_ReportsFinStatements.xml')
+tree = ET.parse('D:\\Files\\Documents\\Workspace\\Finflock\\Downloads\\Sample_XMLs\\IBM_Fundamental_Data\\IBM_ReportsFinStatements.xml')
 root = tree.getroot()
 df_MapItem_Table = pd.DataFrame()
 df_Balance_Sheet = pd.DataFrame()
@@ -84,7 +84,7 @@ df_TotalRevenue = pd.DataFrame()
 df_EPS = pd.DataFrame()
 df_Dividend = pd.DataFrame()
 
-tree = ET.parse('ReportsFinSummary.xml')
+tree = ET.parse('D:\\Files\\Documents\\Workspace\\Finflock\\Downloads\\Sample_XMLs\\GOOG_Fundamental_Data\\GOOG_ReportsFinSummary.xml')
 root = tree.getroot()
 print("\n\n")
 print("############# DividendPerShare ################")
