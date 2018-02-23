@@ -1,10 +1,13 @@
 from xml_parser_functions import fin_summary
+import xml_parser_functions
 
 
 
 #Enter the path here
-#path = 'IBM_Fundamental_Data\\IBM_ReportsFinSummary.xml'
-path = 'GOOG_Fundamental_Data\\GOOG_ReportsFinSummary.xml'
+path = 'IBM_Fundamental_Data\\IBM_ReportsFinSummary.xml'
+#path = 'GOOG_Fundamental_Data\\GOOG_ReportsFinSummary.xml'
+
+#path = 'AAPL_Fundamental_Data\\AAPL_ReportsFinStatements.xml'
 
 #Linux directory
 #path = 'IBM_Fundamental_Data/IBM_ReportsFinSummary.xml'
@@ -29,3 +32,9 @@ if 'Summary' in path:
 		obj.dividend_per_share()
 	if 'Dividends' in data:
 		obj.dividend()
+
+#for Finace_statements
+if 'Statements' in path:
+	obj = xml_parser_functions.fin_statements(full_path)
+
+	obj.mapitem()

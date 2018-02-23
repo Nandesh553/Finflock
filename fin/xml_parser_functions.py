@@ -103,16 +103,40 @@ class fin_summary():
 		print('\t====   ==========  ==========   ==========   ========     =====\n')
 		count = 0
 		for neighbor in root.iter('Dividend'):
-		    type = neighbor.attrib['type']
+		    type_data = neighbor.attrib['type']
 		    exDate = neighbor.attrib['exDate']
 		    recordDate = neighbor.attrib['recordDate']
 		    payDate = neighbor.attrib['payDate']
 		    declarationDate = neighbor.attrib['declarationDate']
 		    value = neighbor.text
-		    print('\t',type,' ',exDate,' ',recordDate,' ',payDate,' ',declarationDate,' ',value)
+		    print('\t',type_data,' ',exDate,' ',recordDate,' ',payDate,' ',declarationDate,' ',value)
 		    count += 1
 
 
 
 
-class 
+class fin_statements:
+
+	def __init__(self,path):
+		self.path = path
+		self.tree = ET.parse(path)
+
+	def mapitem(self):
+		#*********************This code iterates the mapitem*****************************
+		tree = self.tree
+		root = tree.getroot()
+		print('\n\n')
+		print("################# MAPITEM ##################")
+		print('\n')
+		print('\t coaItem   stat_Type   lineID   precision   value')
+		print('\t =======   =========   ======   =========   =====\n')
+		count = 0
+		for neighbor in root.iter('mapItem'):
+			coaItem = neighbor.attrib['coaItem']
+			statementType = neighbor.attrib['statementType']
+			lineID = neighbor.attrib['lineID']
+			precision = neighbor.attrib['precision']
+			value = neighbor.text
+			print('\t',coaItem,'\t\t',statementType,' \t',lineID,'\t',precision,' \t  ',value)
+			count += 1
+

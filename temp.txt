@@ -1,0 +1,11 @@
+MASTERDATA
+
+Stock_Technical_Data
+Stock_Price_data
+Indian_Stock_Symbols_Data
+Stock_Exchange_Holidays
+Crypto_Arbitrage_Strategy
+Test_Table
+Stock_Fundamental_Data
+Arbitrage_Strategy_1
+Stock_Symbols_Data
