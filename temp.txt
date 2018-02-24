@@ -9,3 +9,33 @@ Test_Table
 Stock_Fundamental_Data
 Arbitrage_Strategy_1
 Stock_Symbols_Data
+
+
+
+sqlcmd -S localhost -U SA -P Lenovo@123
+
+
+>>Shows DataBases:
+
+select Name from sys.Databases
+go
+
+>>Use Db
+
+use dbname
+go
+
+
+>>create table
+
+CREATE TABLE Inventory (id INT, name NVARCHAR(50), quantity INT)
+go
+
+>>insert
+
+INSERT INTO Inventory VALUES (1, 'banana', 150); INSERT INTO Inventory VALUES (2, 'orange', 154);
+go
+
+>>quit
+
+quit

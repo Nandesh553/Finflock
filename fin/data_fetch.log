@@ -1,0 +1,100 @@
+Start Time is:  2018-02-23 14:22:22.854748
+   ================================   
+
+Line : A	Agilent Technologies
+
+Ticker: A
+URL   : https://api.iextrading.com/1.0/stock/A/company
+DATA  : {"symbol":"A","companyName":"Agilent Technologies Inc.","exchange":"New York Stock Exchange","industry":"Medical Diagnostics & Research","website":"http://www.agilent.com","description":"Agilent Technologies Inc is engaged in life sciences, diagnostics and applied chemical markets. The company provides application focused solutions that include instruments, software, services and consumables for the entire laboratory workflow.","CEO":"","issueType":"cs","sector":"Healthcare"}
+
+
+   ================================   
+
+Line : AA	Alcoa Corp
+
+Ticker: AA
+URL   : https://api.iextrading.com/1.0/stock/AA/company
+DATA  : {"symbol":"AA","companyName":"Alcoa Corporation","exchange":"New York Stock Exchange","industry":"Metals & Mining","website":"http://www.alcoa.com","description":"Alcoa Corp is an integrated aluminum company. The company engages in aluminum production from bauxite mining to manufactures finished aluminum goods. It serves finished aluminum goods to a wide-variety of industrial end markets.","CEO":"Roy Christopher Harvey","issueType":"cs","sector":"Basic Materials"}
+
+
+   ================================   
+
+Line : AAC	Aac Holdings Inc
+
+Ticker: AAC
+URL   : https://api.iextrading.com/1.0/stock/AAC/company
+DATA  : {"symbol":"AAC","companyName":"AAC Holdings Inc.","exchange":"New York Stock Exchange","industry":"Health Care Providers","website":"http://www.americanaddictioncenters.org","description":"AAC Holdings Inc provides inpatient and outpatient substance abuse treatment services for individuals with drug and alcohol addiction. The company also performs drug testing and diagnostics laboratory services and provides physician services.","CEO":"Michael T. Cartwright","issueType":"cs","sector":"Healthcare"}
+
+
+   ================================   
+
+Line : AAN	Aaron's Inc
+
+Ticker: AAN
+URL   : https://api.iextrading.com/1.0/stock/AAN/company
+DATA  : {"symbol":"AAN","companyName":"Aaron's Inc.","exchange":"New York Stock Exchange","industry":"Consulting & Outsourcing","website":"http://www.aarons.com","description":"Aaron's Inc is a retailer of furniture, consumer electronics, computers, appliances and household accessories. It also offers lease-purchase solutions to customers of traditional retailers and revolving credit products.","CEO":"John W. Robinson","issueType":"cs","sector":"Industrials"}
+
+
+   ================================   
+
+Line : AAP	Advance Auto Parts Inc
+
+Ticker: AAP
+URL   : https://api.iextrading.com/1.0/stock/AAP/company
+DATA  : {"symbol":"AAP","companyName":"Advance Auto Parts Inc W/I","exchange":"New York Stock Exchange","industry":"Retail - Apparel & Specialty","website":"http://www.advanceautoparts.com","description":"Advance Auto Parts Inc is an automotive aftermarket parts provider serving professional installers, DIY (do-it-yourself) customer and independently-owned operators.","CEO":"Thomas R. Greco","issueType":"cs","sector":"Consumer Cyclical"}
+
+
+   ================================   
+
+Line : AAT	American Assets Trust
+
+Ticker: AAT
+URL   : https://api.iextrading.com/1.0/stock/AAT/company
+DATA  : {"symbol":"AAT","companyName":"American Assets Trust Inc.","exchange":"New York Stock Exchange","industry":"REITs","website":"http://www.americanassetstrust.com","description":"American Assets Trust Inc is a self-administered real estate investment trust based in the United States. The company mainly invests in, operates, and develops retail, office, residential, and mixed-use properties in California, Oregon, and Hawaii.","CEO":"Ernest Rady","issueType":"cs","sector":"Real Estate"}
+
+
+   ================================   
+
+Line : AAV	Advantage Oil & Gas Ltd
+
+Ticker: AAV
+URL   : https://api.iextrading.com/1.0/stock/AAV/company
+DATA  : {"symbol":"AAV","companyName":"Advantage Oil & Gas Ltd","exchange":"New York Stock Exchange","industry":"Oil & Gas - E&P","website":"http://www.advantageog.com","description":"Advantage Oil & Gas Ltd and its subsidiaries operates as an intermediate natural gas and liquids development and production corporation in the Montney resource play located in Western Canada.","CEO":"Andy J. Mah","issueType":"cs","sector":"Energy"}
+
+
+   ================================   
+
+Line : AB	Alliancebernstein Holding LP
+
+Ticker: AB
+URL   : https://api.iextrading.com/1.0/stock/AB/company
+DATA  : {"symbol":"AB","companyName":"AllianceBernstein Holding L.P. Units","exchange":"New York Stock Exchange","industry":"Asset Management","website":"http://www.alliancecapital.com","description":"AllianceBernstein Holding LP is engaged in the financial service sector. Its activities include investment management services and its sell-side business.","CEO":"Seth Bernstein","issueType":"cs","sector":"Financial Services"}
+
+
+   ================================   
+
+Line : ABB	Abb Ltd
+
+Ticker: ABB
+URL   : https://api.iextrading.com/1.0/stock/ABB/company
+DATA  : {"symbol":"ABB","companyName":"ABB Ltd","exchange":"New York Stock Exchange","industry":"Computer Hardware","website":"http://www.abb.com","description":"ABB Ltd is a power and automation systems provider that are designed to boost industrial productivity, increase power grid reliability and enhance energy efficiency. The company works closely with utility, industry, transport and infrastructure customers.","CEO":"Ulrich Spiesshofer","issueType":"cs","sector":"Technology"}
+
+
+   ================================   
+
+Line : ABBV	Abbvie Inc
+
+Ticker: ABBV
+URL   : https://api.iextrading.com/1.0/stock/ABBV/company
+DATA  : {"symbol":"ABBV","companyName":"AbbVie Inc.","exchange":"New York Stock Exchange","industry":"Drug Manufacturers","website":"http://www.abbvie.com","description":"AbbVie Inc is a biopharmaceutical company that discovers, develops, manufactures and sells a range of pharmaceutical products for treating chronic autoimmune diseases, virology and neurological disorders.","CEO":"Richard A. Gonzalez","issueType":"cs","sector":"Healthcare"}
+
+
+   ================================   
+
+Line : ABC	Amerisourcebergen Corp
+Ticker: ABC
+URL   : https://api.iextrading.com/1.0/stock/ABC/company
+DATA  : {"symbol":"ABC","companyName":"AmerisourceBergen Corporation","exchange":"New York Stock Exchange","industry":"Medical Distribution","website":"http://www.amerisourcebergen.com","description":"AmerisourceBergen Corp is a pharmaceutical services company. It provides drug distribution and related healthcare services and solutions to pharmacy, physician, and manufacturer customers based in the United States and Canada.","CEO":"Steven H. Collis","issueType":"cs","sector":"Healthcare"}
+
+
+End Time is  :  2018-02-23 14:22:38.010719
