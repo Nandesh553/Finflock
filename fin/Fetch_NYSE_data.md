@@ -1,3 +1,7 @@
+# Fetch_NYSE_data
+
+This documentation is for fetching NYSE Symbols data.
+
 ## Api Company
 	*IEX Trading
 
@@ -9,3 +13,4 @@
 	* 1.Get the symbol data from 'NYSE.txt' file
 	* 2.Use it to send to the API.
 	* 3.Fetch the data in json format
+	* 4. 
