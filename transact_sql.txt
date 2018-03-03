@@ -6,6 +6,10 @@ From Information_schema.Tables
 Where Table_type = 'BASE TABLE' and Objectproperty 
 (Object_id(Table_name), 'IsMsShipped') = 0
 
+SELECT * FROM INFORMATION_SCHEMA.TABLES 
+
+SELECT * FROM Sys.Tablesy
+
 
 
 
