@@ -1,0 +1,7 @@
+##JPA
+    * jpa example
+    * crud
+    * orm
+    * Create 1 table
+    create object
+    right clickk => generate entities
